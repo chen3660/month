@@ -1,0 +1,3 @@
+RewriteEngine on
+
+RewriteRule ^showbooks\.html$ show.php [QSA]
